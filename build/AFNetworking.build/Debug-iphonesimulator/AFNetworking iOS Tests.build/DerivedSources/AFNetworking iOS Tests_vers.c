@@ -1,0 +1,1 @@
+ const unsigned char AFNetworking_iOS_TestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:AFNetworking iOS Tests  PROJECT:AFNetworking-1" "\n"; const double AFNetworking_iOS_TestsVersionNumber __attribute__ ((used)) = (double)1.;
